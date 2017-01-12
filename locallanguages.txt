@@ -1,0 +1,60 @@
+altjiddisch
+FiJi 
+Filmjiddisch
+LiJi 
+Literaturjiddisch
+LiJi1 
+Literaturjiddisch des 18\. und 19\. Jahrhunderts
+LiJi2 
+Literaturjiddisch des späten 20\. und 21\. Jahrhunderts
+LiHe 
+Literaturhebräisch 
+mitteljiddisch
+NOJ 
+Nordostjiddisch
+NÜJ 
+nördliches Übergangsjiddisch
+NWJ 
+Nordwestjiddisch 
+ostjiddisch
+OJ 
+Ostjiddisch
+SOJ 
+Südostjiddisch
+SÜJ 
+südliches Übergangsjiddisch
+SWJ 
+Südwestjiddisch
+urjiddisch, protojiddisch
+westjiddisch
+WJ 
+Westjiddisch
+ZOJ 
+Zentralostjiddisch
+ZWJ 
+Zentralwestjiddisch
+afrikaans
+althochdeutsch
+alemannisch
+bairisch
+dänisch
+elsässisches Niederalemannisch
+englisch
+frühneuhochdeutsch
+germanisch
+isländisch
+mittelhochdeutsch
+moselfränkisch
+niederdeutsch
+niederländisch
+rheinfränkisch
+schwäbisch
+schwedisch
+westflämisch
+westfriesisch
+französisch
+hebräisch
+italienisch
+polnisch
+russisch
+tschechisch
