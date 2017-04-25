@@ -1,8 +1,15 @@
 {
-  "versions": [{
+  "versions": [
+  {
     "versiontype": "proofreading",
     "title": "Sprachliche Imitation",
     "authors": [{"name": "Lea Schäfer"}],
     "publishedAt": "2016-09-30T00:00:33.000Z"
-  }]
+  },{
+    "versiontype": "first_edition",
+    "title": "Sprachliche Imitation",
+    "authors": [{"name": "Lea Schäfer"}],
+    "publishedAt": "2017-01-16T00:00:33.000Z"
+  }
+  ]
 }
